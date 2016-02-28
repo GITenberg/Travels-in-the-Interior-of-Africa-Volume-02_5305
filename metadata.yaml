@@ -1,0 +1,25 @@
+_repo: Travels-in-the-Interior-of-Africa-Volume-02_5305
+creator:
+  author:
+    agent_name: Park, Mungo
+    birthdate: 1771
+    deathdate: 1806
+    gutenberg_agent_id: '1755'
+    url: http://www.gutenberg.org/2009/agents/1755
+    wikipedia: http://en.wikipedia.org/wiki/Mungo_Park
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Africa -- Discovery and exploration'
+- !lcsh 'Niger River'
+title: Travels in the Interior of Africa — Volume 02
+url: http://www.gutenberg.org/ebooks/5305
