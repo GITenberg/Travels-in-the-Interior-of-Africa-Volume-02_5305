@@ -1,5 +1,5 @@
 _repo: Travels-in-the-Interior-of-Africa-Volume-02_5305
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 5305-h/images/coverb.jpg
@@ -27,5 +27,6 @@ subjects:
 - !lcc 'DT'
 - !lcsh 'Africa -- Discovery and exploration'
 - !lcsh 'Niger River'
+- GITenberg
 title: Travels in the Interior of Africa — Volume 02
 url: http://www.gutenberg.org/ebooks/5305
